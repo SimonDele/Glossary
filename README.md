@@ -16,6 +16,19 @@ The secret sauce invented by attention is to create shortcuts between the contex
 
 Afterwards, attention was extended to computer vision field. 
 
-## Pointer Network
+## Transformer 
+Transformer is a type of attention mechanism
 
-## Transformer
+
+## Geodesic 
+"In differential geometry, a geodesic (/ˌdʒiːəˈdɛsɪk, ˌdʒiːoʊ-, -ˈdiː-, -zɪk/[1][2]) is a generalization of the notion of a "straight line" to "curved spaces"." [wikipedia](https://en.wikipedia.org/wiki/Geodesic)
+
+## Huber loss
+
+The huber loss function is used in robust regression because it is less sensitive to outliers in data than the squarred error loss.
+
+<img src='images/huber_loss_eq.PNG'> 
+
+The huber loss is quadratic for small values and linear for large values.
+
+<img src='images/huber_loss_curve.PNG'>
